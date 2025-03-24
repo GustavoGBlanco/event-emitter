@@ -1,0 +1,12 @@
+{
+  "name": "node-event-emitter-project",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo utilizando EventEmitter en Node.js con arquitectura modular.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Gustavo Blanco",
+  "license": "MIT",
+  "type": "commonjs"
+}

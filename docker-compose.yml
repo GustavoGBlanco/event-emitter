@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  event-emitter-app:
+    build: .
+    container_name: node-event-emitter
+    volumes:
+      - .:/app
+    command: npm start
